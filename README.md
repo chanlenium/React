@@ -34,8 +34,3 @@ https://www.npmjs.com/
 <br />
 <br />
 
-
-## Github 유효 기간.
-Git Repository는 수업 종료 후 2주간 유지합니다.  
-참조 부탁드립니다.
-
